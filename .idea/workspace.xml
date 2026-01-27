@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2123e906-9d30-4d43-a529-1d553071c5fe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/AI_Academics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI_Academics.iml" afterDir="false" />
+    <list default="true" id="2123e906-9d30-4d43-a529-1d553071c5fe" name="Changes" comment="Experiment 1: Digit Prediction">
+      <change afterPath="$PROJECT_DIR$/EXP1_27-01/AI Lab Work_Wine.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXP1_27-01/AI Lab Work.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/EXP1_27-01/AI Lab Work.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,22 +16,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "techavenger123"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;techavenger123&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/techavenger123/AI_Academics.git",
-    "accountId": "55101ac6-da98-413f-b6c7-a3a4e0a39b6e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/techavenger123/AI_Academics.git&quot;,
+    &quot;accountId&quot;: &quot;55101ac6-da98-413f-b6c7-a3a4e0a39b6e&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="38pREqNX9SgEYfSfY0KFZCPcRb8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,6 +49,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/mihirmithani/Downloads/SEM_6/AI_Academics/EXP1_27-01",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,6 +60,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/EXP1_27-01" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,12 +80,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1769494416319</updated>
-      <workItem from="1769494417461" duration="1036000" />
+      <workItem from="1769494417461" duration="1476000" />
+      <workItem from="1769496342347" duration="676000" />
     </task>
+    <task id="LOCAL-00001" summary="Experiment 1: Digit Prediction">
+      <option name="closed" value="true" />
+      <created>1769495476791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769495476791</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Experiment 1: Digit Prediction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Experiment 1: Digit Prediction" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
