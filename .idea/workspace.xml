@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2123e906-9d30-4d43-a529-1d553071c5fe" name="Changes" comment="Experiment 2: CNN">
-      <change afterPath="$PROJECT_DIR$/EXP3_17_02/NLP_17_02.ipynb" afterDir="false" />
+    <list default="true" id="2123e906-9d30-4d43-a529-1d553071c5fe" name="Changes" comment="Experiment 3: NLP Limmatization and Tokenization">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +93,8 @@
       <workItem from="1770793540513" duration="79000" />
       <workItem from="1770793635546" duration="43000" />
       <workItem from="1771306898798" duration="6546000" />
+      <workItem from="1771317961398" duration="68000" />
+      <workItem from="1771398106884" duration="48000" />
     </task>
     <task id="LOCAL-00001" summary="Experiment 1: Digit Prediction">
       <option name="closed" value="true" />
@@ -119,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770706450983</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Experiment 3: NLP Limmatization and Tokenization">
+      <option name="closed" value="true" />
+      <created>1771318013598</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1771318013598</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,7 +138,8 @@
     <MESSAGE value="Experiment 1: Digit Prediction" />
     <MESSAGE value="Experiment 1: Wine Class Prediction" />
     <MESSAGE value="Experiment 2: CNN" />
-    <option name="LAST_COMMIT_MESSAGE" value="Experiment 2: CNN" />
+    <MESSAGE value="Experiment 3: NLP Limmatization and Tokenization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Experiment 3: NLP Limmatization and Tokenization" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
