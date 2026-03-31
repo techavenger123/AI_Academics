@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2123e906-9d30-4d43-a529-1d553071c5fe" name="Changes" comment="Experiment 3: NLP Limmatization and Tokenization">
+      <change afterPath="$PROJECT_DIR$/Content Based Recommendation System/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content Based Recommendation System/movies.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +72,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/EXP1_27-01" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Content Based Recommendation System" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -95,6 +100,9 @@
       <workItem from="1771306898798" duration="6546000" />
       <workItem from="1771317961398" duration="68000" />
       <workItem from="1771398106884" duration="48000" />
+      <workItem from="1773384771470" duration="76000" />
+      <workItem from="1773482846239" duration="18000" />
+      <workItem from="1774936186147" duration="794000" />
     </task>
     <task id="LOCAL-00001" summary="Experiment 1: Digit Prediction">
       <option name="closed" value="true" />
@@ -128,11 +136,30 @@
       <option name="project" value="LOCAL" />
       <updated>1771318013598</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Experiment 3: NLP Limmatization and Tokenization">
+      <option name="closed" value="true" />
+      <created>1773384785034</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773384785034</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Experiment 1: Digit Prediction" />
