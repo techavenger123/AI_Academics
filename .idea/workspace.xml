@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2123e906-9d30-4d43-a529-1d553071c5fe" name="Changes" comment="Experiment 3: NLP Limmatization and Tokenization">
-      <change afterPath="$PROJECT_DIR$/Content Based Recommendation System/main.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content Based Recommendation System/movies.csv" afterDir="false" />
+    <list default="true" id="2123e906-9d30-4d43-a529-1d553071c5fe" name="Changes" comment="Content Recommendation System">
+      <change afterPath="$PROJECT_DIR$/Content Based Recommendation System(31_03_2026)/ratings.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content Based Recommendation System/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Content Based Recommendation System(31_03_2026)/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content Based Recommendation System/movies.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Content Based Recommendation System(31_03_2026)/movies.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +74,7 @@
       <recent name="$PROJECT_DIR$/EXP1_27-01" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Content Based Recommendation System(31_03_2026)" />
       <recent name="$PROJECT_DIR$/Content Based Recommendation System" />
     </key>
   </component>
@@ -102,7 +104,7 @@
       <workItem from="1771398106884" duration="48000" />
       <workItem from="1773384771470" duration="76000" />
       <workItem from="1773482846239" duration="18000" />
-      <workItem from="1774936186147" duration="794000" />
+      <workItem from="1774936186147" duration="4146000" />
     </task>
     <task id="LOCAL-00001" summary="Experiment 1: Digit Prediction">
       <option name="closed" value="true" />
@@ -144,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773384785034</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Content Recommendation System">
+      <option name="closed" value="true" />
+      <created>1774937018194</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774937018194</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,7 +176,8 @@
     <MESSAGE value="Experiment 1: Wine Class Prediction" />
     <MESSAGE value="Experiment 2: CNN" />
     <MESSAGE value="Experiment 3: NLP Limmatization and Tokenization" />
-    <option name="LAST_COMMIT_MESSAGE" value="Experiment 3: NLP Limmatization and Tokenization" />
+    <MESSAGE value="Content Recommendation System" />
+    <option name="LAST_COMMIT_MESSAGE" value="Content Recommendation System" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
