@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2123e906-9d30-4d43-a529-1d553071c5fe" name="Changes" comment="Content Recommendation System">
-      <change afterPath="$PROJECT_DIR$/Content Based Recommendation System(31_03_2026)/ratings.csv" afterDir="false" />
+    <list default="true" id="2123e906-9d30-4d43-a529-1d553071c5fe" name="Changes" comment="User Similarities and Movie Similarities.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content Based Recommendation System/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Content Based Recommendation System(31_03_2026)/main.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content Based Recommendation System/movies.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Content Based Recommendation System(31_03_2026)/movies.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +101,8 @@
       <workItem from="1771398106884" duration="48000" />
       <workItem from="1773384771470" duration="76000" />
       <workItem from="1773482846239" duration="18000" />
-      <workItem from="1774936186147" duration="4146000" />
+      <workItem from="1774936186147" duration="4209000" />
+      <workItem from="1775105301919" duration="48000" />
     </task>
     <task id="LOCAL-00001" summary="Experiment 1: Digit Prediction">
       <option name="closed" value="true" />
@@ -154,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774937018194</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="User Similarities and Movie Similarities.">
+      <option name="closed" value="true" />
+      <created>1774940376884</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1774940376884</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +183,8 @@
     <MESSAGE value="Experiment 2: CNN" />
     <MESSAGE value="Experiment 3: NLP Limmatization and Tokenization" />
     <MESSAGE value="Content Recommendation System" />
-    <option name="LAST_COMMIT_MESSAGE" value="Content Recommendation System" />
+    <MESSAGE value="User Similarities and Movie Similarities." />
+    <option name="LAST_COMMIT_MESSAGE" value="User Similarities and Movie Similarities." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
