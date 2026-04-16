@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2123e906-9d30-4d43-a529-1d553071c5fe" name="Changes" comment="User Similarities and Movie Similarities.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2123e906-9d30-4d43-a529-1d553071c5fe" name="Changes" comment="EXP10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,27 +43,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/mihirmithani/Downloads/SEM_6/AI_Academics/EXP1_27-01&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/mihirmithani/Downloads/SEM_6/AI_Academics",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/EXP1_27-01" />
@@ -103,6 +101,7 @@
       <workItem from="1773482846239" duration="18000" />
       <workItem from="1774936186147" duration="4209000" />
       <workItem from="1775105301919" duration="48000" />
+      <workItem from="1776330382860" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="Experiment 1: Digit Prediction">
       <option name="closed" value="true" />
@@ -160,7 +159,47 @@
       <option name="project" value="LOCAL" />
       <updated>1774940376884</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="CNN and ngrams">
+      <option name="closed" value="true" />
+      <created>1776330547885</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1776330547885</updated>
+    </task>
+    <task id="LOCAL-00009" summary="NLP">
+      <option name="closed" value="true" />
+      <created>1776330597162</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1776330597162</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Words Embedding">
+      <option name="closed" value="true" />
+      <created>1776330624289</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1776330624289</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Text Rank">
+      <option name="closed" value="true" />
+      <created>1776330648012</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1776330648012</updated>
+    </task>
+    <task id="LOCAL-00012" summary="EXP10">
+      <option name="closed" value="true" />
+      <created>1776330669774</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1776330669774</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +223,12 @@
     <MESSAGE value="Experiment 3: NLP Limmatization and Tokenization" />
     <MESSAGE value="Content Recommendation System" />
     <MESSAGE value="User Similarities and Movie Similarities." />
-    <option name="LAST_COMMIT_MESSAGE" value="User Similarities and Movie Similarities." />
+    <MESSAGE value="CNN and ngrams" />
+    <MESSAGE value="NLP" />
+    <MESSAGE value="Words Embedding" />
+    <MESSAGE value="Text Rank" />
+    <MESSAGE value="EXP10" />
+    <option name="LAST_COMMIT_MESSAGE" value="EXP10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
