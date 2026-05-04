@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2123e906-9d30-4d43-a529-1d553071c5fe" name="Changes" comment="EXP10" />
+    <list default="true" id="2123e906-9d30-4d43-a529-1d553071c5fe" name="Changes" comment="Files Updation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +105,7 @@
       <workItem from="1773482846239" duration="18000" />
       <workItem from="1774936186147" duration="4209000" />
       <workItem from="1775105301919" duration="48000" />
-      <workItem from="1776330382860" duration="301000" />
+      <workItem from="1776330382860" duration="1158000" />
     </task>
     <task id="LOCAL-00001" summary="Experiment 1: Digit Prediction">
       <option name="closed" value="true" />
@@ -201,7 +203,31 @@
       <option name="project" value="LOCAL" />
       <updated>1776330669774</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Content Based Filtering">
+      <option name="closed" value="true" />
+      <created>1776330696981</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1776330696981</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Colabarative Filtering">
+      <option name="closed" value="true" />
+      <created>1776330739695</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1776330739695</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Files Updation">
+      <option name="closed" value="true" />
+      <created>1776330908086</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1776330908086</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +256,10 @@
     <MESSAGE value="Words Embedding" />
     <MESSAGE value="Text Rank" />
     <MESSAGE value="EXP10" />
-    <option name="LAST_COMMIT_MESSAGE" value="EXP10" />
+    <MESSAGE value="Content Based Filtering" />
+    <MESSAGE value="Colabarative Filtering" />
+    <MESSAGE value="Files Updation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Files Updation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
