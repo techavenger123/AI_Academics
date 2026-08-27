@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2123e906-9d30-4d43-a529-1d553071c5fe" name="Changes" comment="Files Updation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;techavenger123&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/techavenger123/AI_Academics.git&quot;,
+    &quot;accountId&quot;: &quot;55101ac6-da98-413f-b6c7-a3a4e0a39b6e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="38pREqNX9SgEYfSfY0KFZCPcRb8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mihirmithani/Downloads/SEM_6/AI_Academics&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/EXP1_27-01" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Content Based Recommendation System(31_03_2026)" />
+      <recent name="$PROJECT_DIR$/Content Based Recommendation System" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.74" />
+        <option value="bundled-python-sdk-657d8234b839-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2123e906-9d30-4d43-a529-1d553071c5fe" name="Changes" comment="" />
+      <created>1769494416319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769494416319</updated>
+      <workItem from="1769494417461" duration="1476000" />
+      <workItem from="1769496342347" duration="1040000" />
+      <workItem from="1769863781425" duration="273000" />
+      <workItem from="1770703660839" duration="3007000" />
+      <workItem from="1770793540513" duration="79000" />
+      <workItem from="1770793635546" duration="43000" />
+      <workItem from="1771306898798" duration="6546000" />
+      <workItem from="1771317961398" duration="68000" />
+      <workItem from="1771398106884" duration="48000" />
+      <workItem from="1773384771470" duration="76000" />
+      <workItem from="1773482846239" duration="18000" />
+      <workItem from="1774936186147" duration="4209000" />
+      <workItem from="1775105301919" duration="48000" />
+      <workItem from="1776330382860" duration="1158000" />
+      <workItem from="1777877439692" duration="792000" />
+      <workItem from="1778610941256" duration="351000" />
+      <workItem from="1778819372353" duration="284000" />
+    </task>
+    <task id="LOCAL-00001" summary="Experiment 1: Digit Prediction">
+      <option name="closed" value="true" />
+      <created>1769495476791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769495476791</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Experiment 1: Wine Class Prediction">
+      <option name="closed" value="true" />
+      <created>1769497035031</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769497035031</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Experiment 2: CNN">
+      <option name="closed" value="true" />
+      <created>1770706450983</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770706450983</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Experiment 3: NLP Limmatization and Tokenization">
+      <option name="closed" value="true" />
+      <created>1771318013598</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1771318013598</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Experiment 3: NLP Limmatization and Tokenization">
+      <option name="closed" value="true" />
+      <created>1773384785034</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773384785034</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Content Recommendation System">
+      <option name="closed" value="true" />
+      <created>1774937018194</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774937018194</updated>
+    </task>
+    <task id="LOCAL-00007" summary="User Similarities and Movie Similarities.">
+      <option name="closed" value="true" />
+      <created>1774940376884</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1774940376884</updated>
+    </task>
+    <task id="LOCAL-00008" summary="CNN and ngrams">
+      <option name="closed" value="true" />
+      <created>1776330547885</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1776330547885</updated>
+    </task>
+    <task id="LOCAL-00009" summary="NLP">
+      <option name="closed" value="true" />
+      <created>1776330597162</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1776330597162</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Words Embedding">
+      <option name="closed" value="true" />
+      <created>1776330624289</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1776330624289</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Text Rank">
+      <option name="closed" value="true" />
+      <created>1776330648012</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1776330648012</updated>
+    </task>
+    <task id="LOCAL-00012" summary="EXP10">
+      <option name="closed" value="true" />
+      <created>1776330669774</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1776330669774</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Content Based Filtering">
+      <option name="closed" value="true" />
+      <created>1776330696981</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1776330696981</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Colabarative Filtering">
+      <option name="closed" value="true" />
+      <created>1776330739695</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1776330739695</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Files Updation">
+      <option name="closed" value="true" />
+      <created>1776330908086</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1776330908086</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Experiment 1: Digit Prediction" />
+    <MESSAGE value="Experiment 1: Wine Class Prediction" />
+    <MESSAGE value="Experiment 2: CNN" />
+    <MESSAGE value="Experiment 3: NLP Limmatization and Tokenization" />
+    <MESSAGE value="Content Recommendation System" />
+    <MESSAGE value="User Similarities and Movie Similarities." />
+    <MESSAGE value="CNN and ngrams" />
+    <MESSAGE value="NLP" />
+    <MESSAGE value="Words Embedding" />
+    <MESSAGE value="Text Rank" />
+    <MESSAGE value="EXP10" />
+    <MESSAGE value="Content Based Filtering" />
+    <MESSAGE value="Colabarative Filtering" />
+    <MESSAGE value="Files Updation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Files Updation" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
